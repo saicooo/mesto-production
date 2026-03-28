@@ -5,8 +5,8 @@
 
 ## Установка и запуск
 
+git clone https://github.com/saicooo/mesto-ad.git
 
-''' git clone https://github.com/saicooo/mesto-ad.git
 cd mesto-ad
 
 # Установка зависимостей
